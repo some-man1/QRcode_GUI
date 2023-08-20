@@ -1,2 +1,3 @@
 tkinter 
-qrcode
+qrcode==7.4.2
+
